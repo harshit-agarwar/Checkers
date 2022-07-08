@@ -16,8 +16,8 @@ The whole code is written in python3 and the only dependecy it has is the [`pyga
 ----------------------------------------------
 First clone the repository using,
 ```
-git clone
-cd Checkers-AI
+git clone git@github.com:harshit-agarwar/Checkers.git
+cd checkers
 ```
 
 Then install pygame
